@@ -1,0 +1,9 @@
+name: RamUsage
+version: 0.1
+main: ch.kg9dh.main.RamUsage
+author: kg9dh
+commands:
+  ram:
+    description: Shows RAM.
+    permission: ram.use
+    default: op
