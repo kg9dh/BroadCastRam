@@ -1,0 +1,19 @@
+#RamUsage / BroadCastRam by kg9dh
+
+#If it's sent to the player(sender). If this is set to true it will override 'server-output'
+player-output: false
+
+#If it's sent to everyone (Broadcast)
+server-output: true
+
+#If it should output 'Total RAM', 'Used RAM', 'Free RAM'
+usage-output: false
+
+#If it should output the graphics
+graphics-output: false
+
+#If it should output how many percent of RAM are used.
+percent-output: true
+
+#The broadcasts name (label)
+label: Server
